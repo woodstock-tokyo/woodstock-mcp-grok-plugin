@@ -1,4 +1,4 @@
-# Woodstock MCP
+# Woodstock MCP Grok Plugin
 
 Connect to [Woodstock](https://woodstock.co), the Japanese stock-trading service for buying US stocks in JPY (fractional shares supported), over the Model Context Protocol.
 
