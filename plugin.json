@@ -1,9 +1,9 @@
 {
-  "name": "woodstock-mcp",
+  "name": "woodstock",
   "version": "1.0.0",
-  "description": "Woodstock stock-trading platform integration (remote MCP server). Check your portfolio, balances, and orders, fetch US market data and fundamentals, and place trades on Woodstock — the Japanese app for trading US stocks in JPY.",
+  "description": "Woodstock is a U.S. stock trading gateway built for Japanese investors. Easily track your portfolio, balances, trades, orders, and backtest results in one place, with zero-fee trading, 24hr trading sessions, and secure passkey authentication.",
   "author": {
-    "name": "Woodstock",
+    "name": "Woodstock K.K.",
     "url": "https://woodstock.co"
   },
   "homepage": "https://woodstock.co"
